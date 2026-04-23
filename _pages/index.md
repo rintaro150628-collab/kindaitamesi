@@ -14,12 +14,14 @@ permalink: /
 以下テンプレート
 
 # 旅行
+
 ## 観光
+
 ### 関西
  - 関西の情報を提示しています
 ### 関東
  - 関東の情報を提示しています
-#### 北海
+#### 北海道
  - 北海道は日本の一番北にあります
    - ジンギスカンがおいしいです
 #### 沖縄
@@ -52,4 +54,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/kindaitamesi/assets/images/logo-150.png)
+![image](/kindaitamesi/assets/images/S__133677059.jpg)
